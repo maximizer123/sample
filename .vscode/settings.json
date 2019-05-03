@@ -1,3 +1,14 @@
 {
-    "python.pythonPath": "/Users/maxim/anaconda3/bin/python"
+    "python.pythonPath": "/Users/maxim/anaconda3/bin/python",
+    
+    "files.trimTrailingWhitespace": true,
+
+    "files.insertFinalNewline": true,
+
+    "files.trimFinalNewlines": true,
+
+    "terminal.integrated.copyOnSelection": true,
+
+    "editor.wordWrap": "on"
+
 }
