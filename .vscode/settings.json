@@ -1,3 +1,19 @@
 {
-    "python.pythonPath": "C:\\Users\\maxim\\AppData\\Local\\Programs\\Python\\Python37\\python.exe"
+    "python.pythonPath": "C:\\Users\\maxim\\Anaconda3\\python.exe"
+
+    "files.trimTrailingWhitespace": true
+
+    "files.insertFinalNewline": true
+
+    "editor.renderControlCharacters": true
+
+    "editor.wordWrap": "on"
+
+    "workbench.editor.closeEmptyGroups": false
+
+    "terminal.integrated.copyOnSelection": true
+
+    "files.trimFinalNewlines": true
+
+    "breadcrumbs.enabled": true
 }
