@@ -1,6 +1,6 @@
 {
     "python.pythonPath": "/Users/maxim/anaconda3/bin/python",
-    
+
     "files.trimTrailingWhitespace": true,
 
     "files.insertFinalNewline": true,
@@ -10,5 +10,7 @@
     "terminal.integrated.copyOnSelection": true,
 
     "editor.wordWrap": "on"
+
+    "terminal.integrated.shell.osx": "/usr/local/bin/zsh"
 
 }
