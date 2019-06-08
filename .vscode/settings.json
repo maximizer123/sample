@@ -11,6 +11,5 @@
 
     "editor.wordWrap": "on"
 
-    "terminal.integrated.shell.osx": "/usr/local/bin/zsh"
 
 }
